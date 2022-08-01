@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "5968dd23fc13ae04d9000001"
+  },
+  "product_name": "Pepsi",
+  "supplier": "Wisozk Inc",
+  "quantity": 261,
+  "invoice_amount": 210.47
+}, {
+  "_id": {
+    "$oid": "7968dd23fc13ae04d9000002"
+  },
+  "product_name": "Mountain Dew",
+  "supplier": "Keebler-Hilpert",
+  "quantity": 150,
+  "invoice_amount": 208.74
+}, {
+  "_id": {
+    "$oid": "8968dd23fc13ae04d9000003"
+  },
+  "product_name": "Sunkist",
+  "supplier": "SunocKist",
+  "quantity": 400,
+  "invoice_amount": 458.74
+}, {
+  "_id": {
+    "$oid": "8968dd23fc13ae04d9000002"
+  },
+  "product_name": "Vimto",
+  "supplier": "Hilpert",
+  "quantity": 500,
+  "invoice_amount": 985.00
+}, {
+  "_id": {
+    "$oid": "8947dd23fc13ae04d9000002"
+  },
+  "product_name": "Mountain Red",
+  "supplier": "Hilpert",
+  "quantity": 500,
+  "invoice_amount": 1285.00
+}, {
+  "_id": {
+    "$oid": "9968dd23fc23ae04d9000002"
+  },
+  "product_name": "Coco-Cola",
+  "supplier": "Keebler-Hilpert",
+  "quantity": 100,
+  "invoice_amount": 95.74
+}, {
+  "_id": {
+    "$oid": "19688d23fc13ae04d9000003"
+  },
+  "product_name": "Dr. Pepper",
+  "supplier": "Schmitt-Weissnat",
+  "quantity": 201,
+  "invoice_amount": 220.53
+}]
